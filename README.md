@@ -27,7 +27,7 @@ Finally, I tried a basic Q-Learning approach. The rocket would be given a reward
 ### evolution approach v2.0:
 Eventually, I was able to see my simple mistake with the evolutionary algorithm (rather than giving the rocket a score on its current position, it was also based on its past position as well), and the rockets were making significant progress as the generations progressed.
 #### One side note:
-Unlike most evolutionary algorithms, a rocket with a high score is worse than a rocket with a low score. I kept it this way to illustrate with the numbers how successful a rocket is. The score is based on the rocket's position relative to the landing zone, and its velocity. Therefore a rocket that is close to the landing zone and has a small speed is more likely to land safely.
+Unlike most evolutionary algorithms, a rocket with a high score is _worse_ than a rocket with a low score. I kept it this way to illustrate with the numbers how successful a rocket is. The score is based on the rocket's position relative to the landing zone, and its velocity. Therefore a rocket that is close to the landing zone and has a small speed is more likely to land safely.
 
 
 
