@@ -2,10 +2,10 @@
 Try and land a rocket or let an evolution algorithm do it for you.
 
 ## how to use
-1. Install pygame
+1. Install pygame for Python 3
 
    ```
-   pip install pygame
+   pip3 install pygame
    ```
    
 2. Run main.py (using Python 3) from the appropriate directory
