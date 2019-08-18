@@ -16,6 +16,12 @@ Try and land a rocket or let an evolution algorithm do it for you.
 
 3. Play the game or watch the evolution simulator!
 
+## images
+
+![Menu](/rocket-project/resources/menu.png?raw=true "The Menu")
+![Single Player](/rocket-project/resources/singleplayer.png?raw=true "Single Player Mode")
+![Training](/rocket-project/resources/generations.png?raw=true "Training Mode")
+
 ## project history
 ### introduction:
 I had been wanting to make a simple rocket simulation like this for a little while, but only recently got around to finishing it. Using previous pygame knowledge, it was not too difficult to get the single player mode to work. However, when it came to adding the learning aspect to the training mode, it was not as simple.
