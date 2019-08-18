@@ -8,7 +8,12 @@ Try and land a rocket or let an evolution algorithm do it for you.
    pip install pygame
    ```
    
-2. Run main.py
+2. Run main.py (using Python 3) from the appropriate folder
+
+   ```
+   python3 main.py
+   ```
+
 3. Play the game or watch the evolution simulator!
 
 ## project history
